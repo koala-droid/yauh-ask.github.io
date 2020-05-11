@@ -8,15 +8,13 @@ To keep it creative, I started a new journey of learning coding!
 
 Markdown is my first path in coding thanks to the greatest Evan from HYF! 🥚
 
-```markdown
-I like this type of blocks. 
+- I am Yauheniya or Eugenie or female version of the flemish band [Yevgueni](https://www.youtube.com/watch?v=2oP5ig6-_Jk)!
 
-# Because
-## I could
-### Move them
+> I am native Russian, coming from Belarus, travelling around the world, speaking a bunch of languages. 
+
+* Now it is time to learn a new one, the greatest one - of the programming!
 
 
-[This is me](https://www.images.app.goo.gl/y46d6vEcBQ4B1JmH6)
 
 For more details meet me in Slack.
 
@@ -26,3 +24,12 @@ For more details meet me in Slack.
 | who really    | love          | Markdown|
 | but not for   | me            |    as it takes ages |
 
+I did | Copy | this lines
+--- | --- | ---
+*Still* | `relatively` | **glad**
+about | the | tables
+
+Tables | Make | society
+--- | --- | ---
+*Sad* | `relatively` | **sad**
+place. | better | 🌈🌈🌈
